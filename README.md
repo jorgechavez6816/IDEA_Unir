@@ -12,7 +12,9 @@ En línea de task.PerformTask, en el último valor considerar:
 ##0 = WI_JOIN_MATCH_ONLY
 
 ##1 = WI_JOIN_ALL_IN_PRIM
-##2 = WI_JOIN_ALL_REC
-##3 = WI_JOIN_NOC_SEC_MATCH
-##4 = WI_JOIN_NOC_PRI_MATCH
 
+##2 = WI_JOIN_ALL_REC
+
+##3 = WI_JOIN_NOC_SEC_MATCH
+
+##4 = WI_JOIN_NOC_PRI_MATCH
